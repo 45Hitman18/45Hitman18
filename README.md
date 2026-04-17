@@ -42,7 +42,7 @@ AI-focused Computer Science Engineering student with a solid foundation in Pytho
 </div>
 
 
-
+<br>
 <div align="center">
 
 ## 💻 Tech Stack  
@@ -100,9 +100,9 @@ AI-focused Computer Science Engineering student with a solid foundation in Pytho
 
 </div>
 
+<br>
 
-
-
+<br>
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -114,7 +114,7 @@ AI-focused Computer Science Engineering student with a solid foundation in Pytho
 
 </div>
 
----
+<br>
 
 
 
