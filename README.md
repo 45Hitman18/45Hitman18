@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI-focused Computer Science Engineering student with a solid foundation in Python and its frameworks, along with hands-on knowledge of machine learning concepts and applications. Demonstrates strong interest in artificial intelligence, supported by multiple certifications in AI and machine learning. Passionate about developing intelligent, data-driven solutions for real-world problems, with a continuous focus on enhancing technical, analytical, and problem-solving skills.
+AI-focused Computer Science Engineering student with a solid foundation in Python and its frameworks, along with hands-on knowledge of **machine learning** concepts and applications. Demonstrates strong interest in **artificial intelligence**, supported by multiple certifications in AI and machine learning. Passionate about developing intelligent, data-driven solutions for real-world problems, with a continuous focus on enhancing technical, analytical, and problem-solving skills.
 
 
 ## 🌐 socials:
