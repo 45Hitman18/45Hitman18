@@ -21,5 +21,4 @@ AI-focused Computer Science Engineering student with a solid foundation in Pytho
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=45hitman18&icon=0&color=0)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile Views](https://visitcount.itsvg.in/api?id=45hitman18&icon=5&color=6)
