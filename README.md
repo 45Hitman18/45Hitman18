@@ -102,19 +102,22 @@ AI-focused Computer Science Engineering student with a solid foundation in Pytho
 
 <br>
 
-<br>
 ## 📊 GitHub Stats
+
+<br>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=45hitman18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=45hitman18&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="165" />
 
+<br><br>
+
 <img src="https://streak-stats.demolab.com?user=45hitman18&theme=tokyonight&hide_border=true" />
 
 </div>
-<br>
 
+<br>
 
 
 ## 🌱 Currently
