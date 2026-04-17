@@ -6,7 +6,7 @@
 
 *Building intelligent, data-driven solutions for real-world problems*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Machine+Learning+Engineer+in+the+making;Python+%7C+TensorFlow+%7C+PyTorch+%7C+scikit-learn;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Machine+Learning+Engineer+in+the+making;Python+%7C+TensorFlow+%7C+PyTorch+%7C+scikit-learn;Always+learning%2C+always+building+🚀)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thakar-parikshit)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/parixeet_thakar)
