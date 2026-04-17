@@ -25,6 +25,8 @@ AI-focused Computer Science Engineering student with a solid foundation in Pytho
 
 ---
 
+
+
 <div align="center">
 
 ## 🏅 Certifications  
@@ -38,6 +40,8 @@ AI-focused Computer Science Engineering student with a solid foundation in Pytho
 *Multiple AI & ML certifications demonstrating continuous upskilling*
 
 </div>
+
+
 
 
 <div align="center">
@@ -84,6 +88,8 @@ AI-focused Computer Science Engineering student with a solid foundation in Pytho
 </div>
 
 
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -96,6 +102,8 @@ AI-focused Computer Science Engineering student with a solid foundation in Pytho
 </div>
 
 ---
+
+
 
 ## 🌱 Currently
 
