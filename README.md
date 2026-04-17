@@ -21,4 +21,4 @@ AI-focused Computer Science Engineering student with a solid foundation in Pytho
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=45hitman18&icon=5&color=6)
+![Profile Views](https://komarev.com/ghpvc/?username=45hitman18&color=blue)
