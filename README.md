@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a **computer science engineering (ai) student** with a strong foundation in **python and its frameworks**. i have good knowledge of **machine learning** and a deep enthusiasm for the field of **artificial intelligence**. i have also earned **multiple certifications in artificial intelligence and machine learning**, which reflect my continuous learning mindset and dedication to this domain. i am passionate about applying intelligent solutions to real-world problems and constantly strive to enhance my technical and analytical skills.<br>
+AI-focused Computer Science Engineering student with a solid foundation in Python and its frameworks, along with hands-on knowledge of machine learning concepts and applications. Demonstrates strong interest in artificial intelligence, supported by multiple certifications in AI and machine learning. Passionate about developing intelligent, data-driven solutions for real-world problems, with a continuous focus on enhancing technical, analytical, and problem-solving skills.
 
 
 ## 🌐 socials:
