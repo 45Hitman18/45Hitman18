@@ -1,24 +1,129 @@
-# 💫 About Me:
-AI-focused Computer Science Engineering student with a solid foundation in Python and its frameworks, along with hands-on knowledge of **machine learning** concepts and applications. Demonstrates strong interest in **artificial intelligence**, supported by multiple certifications in AI and machine learning. Passionate about developing intelligent, data-driven solutions for real-world problems, with a continuous focus on enhancing technical, analytical, and problem-solving skills.
+<div align="center">
 
+# 👋 Hi, I'm Parikshit Thakar
 
-## 🌐 socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parixeet_thakar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thakar-parikshit)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thakarparikshit3011@gmail.com)
+### AI-focused Computer Science Engineering Student
 
+*Building intelligent, data-driven solutions for real-world problems*
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Machine+Learning+Engineer+in+the+making;Python+%7C+TensorFlow+%7C+PyTorch+%7C+scikit-learn;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-# 📊 GitHub Stats:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thakar-parikshit)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/parixeet_thakar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thakarparikshit3011@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/45Hitman18)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=45hitman18&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![Profile Views](https://komarev.com/ghpvc/?username=45hitman18&color=blueviolet&style=flat-square&label=Profile+Views)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=45hitman18&theme=tokyonight&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=45hitman18&theme=tokyonight&hide_border=false&layout=compact)
+</div>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=45hitman18&color=blue)
+## 🧠 About Me
+
+```python
+class Parikshit:
+    def __init__(self):
+        self.name        = "Parikshit Thakar"
+        self.role        = "CSE Student · AI Enthusiast"
+        self.location    = "Vadodara, Gujarat, India 🇮🇳"
+        self.languages   = ["Python", "C", "HTML5"]
+        self.interests   = ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"]
+        self.clouds      = ["Google Cloud", "Microsoft Azure", "AWS"]
+        self.goal        = "Build AI that solves real-world problems"
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together 🚀")
+
+me = Parikshit()
+me.say_hi()
+```
+
+---
+
+## 🏅 Certifications
+
+| Certificate | Issuer | Domain |
+|---|---|---|
+| 🤖 Machine Learning Specialization | Coursera · Andrew Ng | ML |
+| ☁️ AI on Google Cloud | Google Cloud Skills Boost | Cloud AI |
+| 🧠 Deep Learning & Neural Networks | Coursera · DeepLearning.AI | DL |
+
+> *Multiple AI & ML certifications demonstrating continuous upskilling*
+
+---
+
+## 💻 Tech Stack
+
+### 🤖 AI / Machine Learning
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+### 🌐 Backend & Web
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### ☁️ Cloud & Databases
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=45hitman18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=45hitman18&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=45hitman18&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://github.com/45Hitman18/45Hitman18/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+> *To enable the snake animation, set up the [GitHub Actions workflow](https://github.com/Platane/snk) in your profile repo.*
+
+---
+
+## 🌱 Currently
+
+- 📚 Deepening knowledge in **Large Language Models** and **Generative AI**
+- 🔧 Building end-to-end **ML pipelines** and deploying models to the cloud
+- 💡 Exploring **MLOps** practices for production-ready AI systems
+- 🤝 Open to **collaborations** on AI/ML projects
+
+---
+
+<div align="center">
+
+*"The goal of AI is not to replace human intelligence, but to amplify it."*
+
+**Let's connect and build something intelligent together! 🚀**
+
+</div>
