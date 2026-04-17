@@ -33,9 +33,11 @@ AI-focused Computer Science Engineering student with a solid foundation in Pytho
 
 | Certificate | Issuer | Domain |
 |:----------:|:------:|:------:|
-| 🤖 Machine Learning Specialization | Coursera · Andrew Ng | ML |
-| ☁️ AI on Google Cloud | Google Cloud Skills Boost | Cloud AI |
-| 🧠 Deep Learning & Neural Networks | Coursera · DeepLearning.AI | DL |
+| 🤖 Machine Learning Using Python | Simplilearn · SkillUp | ML |
+| 🐍 Python for Data Science | IBM · Credly | Data Science |
+| 🧠 AI Fundamentals | IBM SkillsBuild · Credly | AI |
+| ☁️ AWS Academy Cloud Foundations | Amazon Web Services · Credly | Cloud |
+| 🚀 Career Essentials in Generative AI | Microsoft & LinkedIn Learning | GenAI |
 
 *Multiple AI & ML certifications demonstrating continuous upskilling*
 
