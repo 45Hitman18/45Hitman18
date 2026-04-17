@@ -23,13 +23,6 @@
 AI-focused Computer Science Engineering student with a solid foundation in Python and its frameworks, along with hands-on knowledge of **machine learning** concepts and applications. Demonstrates strong interest in **artificial intelligence**, supported by multiple certifications in AI and machine learning. Passionate about developing intelligent, data-driven solutions for real-world problems, with a continuous focus on enhancing technical, analytical, and problem-solving skills.
 
 
-## 🌐 socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parixeet_thakar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thakar-parikshit)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thakarparikshit3011@gmail.com)
-
-
-
 ---
 
 ## 🏅 Certifications
@@ -87,18 +80,6 @@ AI-focused Computer Science Engineering student with a solid foundation in Pytho
 <img src="https://streak-stats.demolab.com?user=45hitman18&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://github.com/45Hitman18/45Hitman18/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-> *To enable the snake animation, set up the [GitHub Actions workflow](https://github.com/Platane/snk) in your profile repo.*
 
 ---
 
