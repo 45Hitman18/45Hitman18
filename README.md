@@ -25,16 +25,19 @@ AI-focused Computer Science Engineering student with a solid foundation in Pytho
 
 ---
 
-## 🏅 Certifications
+<div align="center">
+
+## 🏅 Certifications  
 
 | Certificate | Issuer | Domain |
-|---|---|---|
+|:----------:|:------:|:------:|
 | 🤖 Machine Learning Specialization | Coursera · Andrew Ng | ML |
 | ☁️ AI on Google Cloud | Google Cloud Skills Boost | Cloud AI |
 | 🧠 Deep Learning & Neural Networks | Coursera · DeepLearning.AI | DL |
 
-> *Multiple AI & ML certifications demonstrating continuous upskilling*
+*Multiple AI & ML certifications demonstrating continuous upskilling*
 
+</div>
 ---
 
 ## 💻 Tech Stack
