@@ -25,7 +25,7 @@ AI-focused Computer Science Engineering student with a solid foundation in Pytho
 
 ---
 
-
+<br>
 
 <div align="center">
 
@@ -41,7 +41,7 @@ AI-focused Computer Science Engineering student with a solid foundation in Pytho
 
 </div>
 
-
+<br>
 <br>
 <div align="center">
 
@@ -113,7 +113,6 @@ AI-focused Computer Science Engineering student with a solid foundation in Pytho
 <img src="https://streak-stats.demolab.com?user=45hitman18&theme=tokyonight&hide_border=true" />
 
 </div>
-
 <br>
 
 
