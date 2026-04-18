@@ -22,9 +22,11 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=650&height=70&lines=Building+intelligent+systems+that+think+🤖;ML+%7C+LLMs+%7C+Full-Stack+AI+Engineering;Turning+ideas+into+production-grade+AI+🚀" alt="Typing SVG"/>
-</a>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Building+intelligent+systems+that+think;ML+%7C+LLMs+%7C+Full-Stack+AI+Engineering;Turning+ideas+into+production-grade+AI)](https://git.io/typing-svg)
+
+</div>
 
 </div>
 
