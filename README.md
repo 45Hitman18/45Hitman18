@@ -32,17 +32,7 @@
 
 ## 🧠 About Me
 
-```python
-class ParikshitThakar:
-    role     = "AI-focused CSE Student @ Parul University, Vadodara"
-    cgpa     = 7.74
-    focus    = ["LLMs", "RAG Systems", "MLOps", "Full-Stack AI"]
-    building = "Production-grade AI systems for real-world impact"
-    currently_learning = ["Advanced LLM Fine-tuning", "MLOps Pipelines", "Agentic AI"]
-    open_to  = "Collaborations, Internships & AI Projects 🤝"
-```
-
-> *AI-focused CSE student with hands-on experience building real-time, scalable AI systems using ML, deep learning, and modern full-stack technologies. Delivered projects spanning healthcare, fraud detection, tele-radiology, and intelligent chatbots — focused on performance, security, and production-ready architecture.*
+ *AI-focused CSE student with hands-on experience building real-time, scalable AI systems using ML, deep learning, and modern full-stack technologies. Delivered projects spanning healthcare, fraud detection, tele-radiology, and intelligent chatbots — focused on performance, security, and production-ready architecture.*
 
 ---
 
