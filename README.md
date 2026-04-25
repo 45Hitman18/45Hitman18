@@ -122,6 +122,23 @@ Led a 4-member team and delivered a fully functional prototype within a **36-hou
 </table>
 
 ---
+## 🌐 My Portfolio
+
+<div align="center">
+
+<!-- 🔹 Clickable Portfolio Image -->
+<a href="https://thakar-parikshit.vercel.app" target="_blank">
+  <img src="https://github.com/user-attachments/assets/a2fc99b1-d386-4cbd-9263-18c97140a8e0" width="800"/>
+</a>
+
+<br/><br/>
+
+<!-- 🔹 Open Button -->
+<a href="https://thakar-parikshit.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Open%20Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -215,23 +232,7 @@ Led a 4-member team and delivered a fully functional prototype within a **36-hou
 </div>
 
 ---
-## 🌐 My Portfolio
 
-<div align="center">
-
-<!-- 🔹 Clickable Portfolio Image -->
-<a href="https://thakar-parikshit.vercel.app" target="_blank">
-  <img src="https://github.com/user-attachments/assets/a2fc99b1-d386-4cbd-9263-18c97140a8e0" width="800"/>
-</a>
-
-<br/><br/>
-
-<!-- 🔹 Open Button -->
-<a href="https://thakar-parikshit.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Open%20Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
 
 ## 📈 Contribution Graph
 
