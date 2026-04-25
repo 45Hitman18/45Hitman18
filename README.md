@@ -215,6 +215,16 @@ Led a 4-member team and delivered a fully functional prototype within a **36-hou
 </div>
 
 ---
+## 🌐 My Portfolio
+
+<div align="center">
+
+<a href="https://thakar-parikshit.vercel.app" target="_blank">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Visit%20My%20Portfolio&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</a>
+
+</div>
+---
 
 ## 📈 Contribution Graph
 
