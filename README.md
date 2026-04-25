@@ -219,25 +219,14 @@ Led a 4-member team and delivered a fully functional prototype within a **36-hou
 
 <div align="center">
 
-<!-- 🔹 Clickable Banner -->
-<a href="https://thakar-parikshit.vercel.app" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=🚀%20Click%20to%20Explore%20My%20Portfolio&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
-</a>
-
-<br/>
-
-<b>⬇️ Live Preview</b>
-
-<br/><br/>
-
-<!-- 🔹 Portfolio Screenshot Preview -->
+<!-- 🔹 Clickable Portfolio Image -->
 <a href="https://thakar-parikshit.vercel.app" target="_blank">
   <img src="https://github.com/user-attachments/assets/a2fc99b1-d386-4cbd-9263-18c97140a8e0" width="800"/>
 </a>
 
 <br/><br/>
 
-<!-- 🔹 CTA Button -->
+<!-- 🔹 Open Button -->
 <a href="https://thakar-parikshit.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Open%20Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
