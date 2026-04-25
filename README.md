@@ -198,16 +198,17 @@ Led a 4-member team and delivered a fully functional prototype within a **36-hou
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=45hitman18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=300" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=45hitman18&theme=tokyonight&hide_border=true&layout=compact&langs_count=7&cache_seconds=300" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=45hitman18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=45hitman18&theme=tokyonight&hide_border=true&layout=compact&langs_count=7&cache_seconds=1800" height="170"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=45hitman18&theme=tokyonight&hide_border=true&cache_seconds=300"/>
+<img src="https://streak-stats.demolab.com?user=45hitman18&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=45hitman18&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=45hitman18&theme=tokyonight&no-frame=true&margin-w=4&row=1"/>
 
 </div>
 
