@@ -232,7 +232,7 @@ Led a 4-member team and delivered a fully functional prototype within a **36-hou
 
 <!-- 🔹 Portfolio Screenshot Preview -->
 <a href="https://thakar-parikshit.vercel.app" target="_blank">
-  <img src="YOUR_SCREENSHOT_IMAGE_LINK_HERE" width="800"/>
+  <img src=<img width="1182" height="756" alt="Screenshot 2026-04-24 203236" src="https://github.com/user-attachments/assets/a2fc99b1-d386-4cbd-9263-18c97140a8e0" /> width="800"/>
 </a>
 
 <br/><br/>
