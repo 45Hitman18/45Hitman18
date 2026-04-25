@@ -208,7 +208,7 @@ Led a 4-member team and delivered a fully functional prototype within a **36-hou
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=45hitman18&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=45hitman18&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6&v=3"/>
 
 </div>
 
