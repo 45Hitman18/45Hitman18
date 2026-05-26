@@ -128,13 +128,17 @@ Led a 4-member team and delivered a fully functional prototype within a **36-hou
 
 <!-- 🔹 Clickable Portfolio Image -->
 <a href="https://thakarparikshit.vercel.app/" target="_blank">
-  <img src="./Screenshot 2026-05-26 183757.png" width="800"/>
+  <img src="<img width="1882" height="893" alt="Screenshot 2026-05-26 183757" src="https://github.com/user-attachments/assets/4127b7bb-981b-4242-a2b8-5c8c286107fb" />" width="800"/>
 </a>
 
 <br/><br/>
 
 <!-- 🔹 Open Button -->
-<a href="https://thakarparikshit.vercel.app/" target="_
+<a href="https://thakarparikshit.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Open%20Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
 
 ## 🛠️ Tech Stack
 
